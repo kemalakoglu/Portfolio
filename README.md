@@ -5,8 +5,8 @@
 
 
 
-## Galaxy
-Next generation framework for Domain Driven Design needs. .Net Core 2.x support !
+## Protfolio
+Kemal Akoğlu Portfolio Site INfrastructure. .Net Core 2.x support !
 
 ## IoC
 Autofac 
